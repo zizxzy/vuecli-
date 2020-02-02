@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/firstdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zy-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zydemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/组件通信/connention" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/组件通信/zy-todo" vcs="Git" />
+  </component>
+</project>
